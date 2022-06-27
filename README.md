@@ -1,6 +1,6 @@
-# Hackaton Bitcoin Juin 2022
+# Hackathon Bitcoin Juin 2022
 
-Etude réalisé lors de la journée Hackatin du 27 Juin 2022 organisée à l'UCBL sur le thème de la cryptomonnaie et Bitcoin. 
+Etude réalisée lors de la journée Hackathon du 27 Juin 2022 organisée à l'UCBL sur le thème de la cryptomonnaie et Bitcoin. 
 
 Détails http://alter-crypto.sci-web.net/#HACKATHON
 
